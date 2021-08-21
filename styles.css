@@ -36,3 +36,11 @@ background-color:yellow;
 padding: 1rem 2rem;
 display: centers;
 }
+
+#footer {
+  background-color: yellow;
+  position: center;
+  padding-top: 5rem;
+  text-align: center;
+
+}
